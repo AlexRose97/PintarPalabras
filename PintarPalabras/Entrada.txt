@@ -1,0 +1,13 @@
+Planificador:CalendarioSistemas{
+	Año:2016{
+		Mes:01{
+			Dia:29{
+				Descripción{Esto es un fragmento
+					de texto as#%df#
+				}
+				Imagen{path}
+			}
+			
+		}
+	}
+}

@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\bin\Debug\PintarPalabras.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\bin\Debug\PintarPalabras.exe
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\bin\Debug\PintarPalabras.pdb
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.exe
+c:\users\alex\documents\visual studio 2015\Projects\PintarPalabras\PintarPalabras\obj\Debug\PintarPalabras.pdb
